@@ -13,4 +13,21 @@ testing what the command looks like in this area
 
    testing with three indent
 
-    testing with four indent
+    testing with four indents
+
+     five indents
+
+      six indents
+
+1. One
+2. Two
+3. Three
+
+* One 
+* Two
+
+# Header 1 #
+## Header 2 ##
+### Header 3 ###             
+#### Header 4 ####
+##### Header 5 #####      
