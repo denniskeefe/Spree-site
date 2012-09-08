@@ -6,3 +6,11 @@ This is my first run at setting up Spree. I am also learning how to write in the
 rails g scaffold article title:string body:text author:string
 
 testing what the command looks like in this area
+
+ testing with one indent
+
+  testing with two indent
+
+   testing with three indent
+
+    testing with four indent
